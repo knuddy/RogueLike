@@ -7,7 +7,7 @@
 - The game world is procedurally generated
 - Variety of gameplay mechanics including:
 
-<center>Speed Boosters</center>
+<h3 style="text-align: center;">Speed Boosters</h3>
 <center><img src="https://media.giphy.com/media/gfTqpVuKjR9rctKFd8/giphy.gif" width="600" height="360" /></center>
 
     -   Health Replenishers/Health Boosters  
