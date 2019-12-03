@@ -8,7 +8,7 @@
 - Variety of gameplay mechanics including:
 
 <h3 align=center>Speed Boosters</h3>
-<center><img src="https://media.giphy.com/media/gfTqpVuKjR9rctKFd8/giphy.gif" width="680" height="490" /></center>
+<img align=center src="https://media.giphy.com/media/gfTqpVuKjR9rctKFd8/giphy.gif" width="840" height="490" />
 
     -   Health Replenishers/Health Boosters  
     -   Different types of coin picks for score
