@@ -11,21 +11,21 @@
     <tr>
         <td>
             <h3>Speed Boosters</h3>
-            <img src="https://media.giphy.com/media/gfTqpVuKjR9rctKFd8/giphy.gif" width="480" height="211" />
+            <img src="https://media.giphy.com/media/gfTqpVuKjR9rctKFd8/giphy.gif" width="520" height="225" />
         </td>
         <td>
             <h3>Score Pickups</h3>
-            <img src="https://media.giphy.com/media/jt9kLx5zyLo6YIgFKd/giphy.gif" width="480" height="211" />
+            <img src="https://media.giphy.com/media/jt9kLx5zyLo6YIgFKd/giphy.gif" width="520" height="225" />
         </td>
     </tr>
     <tr>
         <td>
             <h3>Health Replenishers</h3>
-            <img src="https://media.giphy.com/media/l3HxRUaSCDAKJN9DIt/giphy.gif" width="480" height="211" />
+            <img src="https://media.giphy.com/media/l3HxRUaSCDAKJN9DIt/giphy.gif" width="520" height="225" />
         </td>
         <td>
             <h3>Health Boosters</h3>
-            <img src="https://media.giphy.com/media/Y0mxzTVCDWpDwmFOQT/giphy.gif" width="480" height="211" />
+            <img src="https://media.giphy.com/media/Y0mxzTVCDWpDwmFOQT/giphy.gif" width="520" height="225" />
         </td>
     </tr>
 </table>
