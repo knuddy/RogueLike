@@ -28,11 +28,25 @@
             <img src="https://media.giphy.com/media/Y0mxzTVCDWpDwmFOQT/giphy.gif" width="520" height="225" />
         </td>
     </tr>
+    <tr>
+        <td>
+            <h3>NPC Intelligent Behaviour</h3>
+            <img src="https://media.giphy.com/media/ViCjarF7zTjrCHoXG9/giphy.gif" width="520" height="225" />
+        </td>
+        <td>
+            <h3>Portals For Level Changing</h3>
+            <img src="https://media.giphy.com/media/LOVn90axrI5yjRpK8W/giphy.gif" width="520" height="225" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Fog Of War</h3>
+            <img src="https://media.giphy.com/media/MDaGnTBnrvdhtlVDgs/giphy.gif" width="520" height="225" />
+        </td>
+        <td>
+            <h3>Minimap</h3>
+            <img src="https://media.giphy.com/media/ZZUADN6P1QxxzuaqWb/giphy.gif" width="520" height="225" />
+        </td>
+    </tr>
 </table>
-    -   Portals for level changing
-    -   NPC intelligent behaviour
-        -   fleeing/chasing
-        -   melee/ranged attacks
-    -   Fog Of War (FOW) - The game world is slowly uncovered
-    -   Minimap a display of the area that has been uncovered in the FOW
 
