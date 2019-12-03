@@ -7,7 +7,7 @@
 - The game world is procedurally generated
 - Variety of gameplay mechanics including:
     -   Speed Boosters
-        <img src="https://media.giphy.com/media/gfTqpVuKjR9rctKFd8/giphy.gif" width="300" height="360" />
+        <img src="https://media.giphy.com/media/gfTqpVuKjR9rctKFd8/giphy.gif" width="600" height="360" />
 
     -   Health Replenishers/Health Boosters  
     -   Different types of coin picks for score
